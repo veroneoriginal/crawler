@@ -1,0 +1,15 @@
+{
+  "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+  "link": "https://github.com/trycua/cua",
+  "comments_link": "https://news.ycombinator.com/item?id=47936312",
+  "comment_links": [
+    "https://github.com/trycua/cua/tree/main/libs/cua-driver/Tests/integration",
+    "https://github.com/asmvik/yabai/blob/f17ef88116b0d988b834bb2801c3caad952cc49d/src/window_manager.h#L149",
+    "http://tart.run",
+    "https://www.schneier.com/blog/archives/2017/08/nsa_collects_ms.html",
+    "https://news.ycombinator.com/item?id=47799128",
+    "https://x.com/trycua/status/2047383207612645426",
+    "https://github.com/HKUDS/CLI-Anything",
+    "https://cua.ai/docs/cua-driver/guide/getting-started/swift-integration#cuadrivercore"
+  ]
+}

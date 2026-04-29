@@ -1,0 +1,17 @@
+{
+  "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+  "link": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+  "comments_link": "https://news.ycombinator.com/item?id=47937380",
+  "comment_links": [
+    "https://arxiv.org/html/2505.22954v3",
+    "https://evolution.ml/pdf/schmidhuber.pdf",
+    "https://pastebin.com/eac0SAYg",
+    "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "https://en.wikipedia.org/wiki/Genetic_algorithm",
+    "https://publicityreform.github.io/findbyimage/readings/lem.pdf",
+    "https://arxiv.org/abs/cs/0207097",
+    "https://github.com/algorithmicsuperintelligence/openevolve",
+    "https://github.com/karpathy/autoresearch",
+    "https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy"
+  ]
+}

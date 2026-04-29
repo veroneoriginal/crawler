@@ -1,0 +1,19 @@
+{
+  "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+  "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+  "comments_link": "https://news.ycombinator.com/item?id=47936479",
+  "comment_links": [
+    "https://docs.codeberg.org/ci/",
+    "https://github.com/lookfirst",
+    "https://x.com/wiz_io/status/2049153209982140718",
+    "https://news.ycombinator.com/item?id=47712656",
+    "https://news.ycombinator.com/item?id=47941590",
+    "https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7",
+    "https://docs.github.com/en/enterprise-server@3.19/admin/release-notes#3.19.3",
+    "https://news.ycombinator.com/item?id=46961345",
+    "https://news.ycombinator.com/newsguidelines.html",
+    "http://github.com/account/enterprises/new",
+    "https://mrshu.github.io/github-statuses/",
+    "https://eu.githubstatus.com/uptime"
+  ]
+}

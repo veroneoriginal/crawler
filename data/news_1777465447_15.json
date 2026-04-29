@@ -1,0 +1,21 @@
+{
+  "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+  "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+  "comments_link": "https://news.ycombinator.com/item?id=47939320",
+  "comment_links": [
+    "https://github.com/openai/codex",
+    "https://platform.claude.com/docs/en/build-with-claude/claude-in-amazon-bedrock",
+    "https://arxiv.org/pdf/2410.20247",
+    "https://aws.amazon.com/bedrock/faqs/",
+    "https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-21/",
+    "https://openai.com/index/response-to-nyt-data-demands/",
+    "https://docs.aws.amazon.com/bedrock/latest/userguide/endpoints.html",
+    "https://docs.aws.amazon.com/bedrock/latest/userguide/bedrock-mantle.html",
+    "https://www.cnbc.com/video/2026/04/28/tech-shares-fall-after-openai-cfo-admits-worries-about-future-compute-bills.html",
+    "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+    "https://x.com/amazon/status/2049178618639839427",
+    "https://artificialanalysis.ai/models/claude-opus-4-7/providers#speed",
+    "https://news.ycombinator.com/item?id=47921248",
+    "https://business.columbia.edu/sites/default/files-efs/imce-uploads/PFS/APEC_New/song.pdf"
+  ]
+}
