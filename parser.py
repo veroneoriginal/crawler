@@ -3,8 +3,10 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://news.ycombinator.com/"
 
 
-# Парсинг списка новостей с главной страницы
 def parse_news(html: str):
+    """
+    Парсинг списка новостей с главной страницы
+    """
     soup = BeautifulSoup(html, "html.parser")
     items = []
 
@@ -34,8 +36,10 @@ def parse_news(html: str):
     return items
 
 
-# Парсинг ссылок из комментариев
 def parse_comment_links(html: str):
+    """
+    Парсинг ссылок из комментариев
+    """
     soup = BeautifulSoup(html, "html.parser")
     links = set()
 
